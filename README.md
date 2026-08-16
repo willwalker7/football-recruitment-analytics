@@ -1,2 +1,2 @@
 # football-recruitment-analytics
-Data-driven football recruitment project focused on identifying undervalued talent, evaluating player fit, estimating market value and supporting transfer decisions.
+Machine Learning project for football recruitment, combining player performance, potential, market value and transfer data to identify talent and support data-driven transfer decisions.
