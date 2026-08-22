@@ -8,3 +8,5 @@ jupyterlab
 ipykernel
 xgboost
 lightgbm
+Unidecode
+rapidfuzz
